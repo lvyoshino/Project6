@@ -139,12 +139,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Desktop\新建文件夹\myapp.cpp" />
-    <ClCompile Include="..\..\..\..\Desktop\新建文件夹\myfunctions.cpp" />
+    <ClCompile Include="myapp.cpp" />
+    <ClCompile Include="myfunctions.cpp" />
     <ClCompile Include="test.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Desktop\新建文件夹\myfunctions.h" />
+    <ClInclude Include="myfunctions.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -15,18 +15,18 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Desktop\新建文件夹\myapp.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\Desktop\新建文件夹\myfunctions.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="myapp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="myfunctions.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Desktop\新建文件夹\myfunctions.h">
+    <ClInclude Include="myfunctions.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
